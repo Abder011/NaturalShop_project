@@ -79,6 +79,8 @@ Figma (UI/UX)
 
 👉 Jira (Gestion de projet) 
 https://sehbiabderrahmane0.atlassian.net/jira/software/projects/NAT/boards/34?atlOrigin=eyJpIjoiMGVhZjNhYzVlYmI5NGZjZjliMmZiYjA2YmRlMzA2MDciLCJwIjoiaiJ9
+
+ 
  👉UML (Diagrammes et structure) 
 ![alt text](diagramme-de-classe-1_page-0001.jpg)
 ![alt text](<Use Case Diagram – NaturalShop_page-0001.jpg>)
