@@ -82,5 +82,4 @@ https://sehbiabderrahmane0.atlassian.net/jira/software/projects/NAT/boards/34?at
 
  
  👉UML (Diagrammes et structure) 
-[![alt text](diagramme-de-classe-1_page-0001.jpg)](https://simplonline-v3-prod-secured.s3.eu-west-3.amazonaws.com/media/file/pdf/use-case-diagram-naturalshop-692304be553ef659843884.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3UUI2EO674XMGNJ2%2F20251201%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20251201T190312Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=796b943d2155b739abc46dc06cf45899a16848b3955bdc829c693b7bee0d527c)
-![alt text](<Use Case Diagram – NaturalShop_page-0001.jpg>)
+(Vous pouvez le consulter sur Simplonline, madame, car le lien ne fonctionne pas ici.)
