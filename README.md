@@ -83,3 +83,7 @@ https://sehbiabderrahmane0.atlassian.net/jira/software/projects/NAT/boards/34?at
  
  👉UML (Diagrammes et structure) 
 (Vous pouvez le consulter sur Simplonline, madame, car le lien ne fonctionne pas ici.)
+
+👉Cahier des Charges – NaturalShop
+
+https://docs.google.com/document/d/170zWtMzJGdJuHsRzwGQfjlMD3p09hOKr/edit?usp=sharing&ouid=108061399536216827171&rtpof=true&sd=true
