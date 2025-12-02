@@ -78,11 +78,11 @@ Figma (UI/UX)
 🔗 Liens Importants
 
 👉 Jira (Gestion de projet) 
-https://sehbiabderrahmane0.atlassian.net/jira/software/projects/NAT/boards/34?atlOrigin=eyJpIjoiMGVhZjNhYzVlYmI5NGZjZjliMmZiYjA2YmRlMzA2MDciLCJwIjoiaiJ9
+https://sehbiabderrahmane0.atlassian.net/jira/software/projects/NAT/boards/34?       atlOrigin=eyJpIjoiMGVhZjNhYzVlYmI5NGZjZjliMmZiYjA2YmRlMzA2MDciLCJwIjoiaiJ9
 
- 
- 👉UML (Diagrammes et structure) 
-(Vous pouvez le consulter sur Simplonline, madame, car le lien ne fonctionne pas ici.)
+👉UML (Diagrammes et structure) 
+
+(https://docs.google.com/document/d/1nJEkr32B1-6q1ox3lMmDylN9oPmKFc9wZK3w4AuLJ48/edit?usp=sharing)
 
 👉Cahier des Charges – NaturalShop
 
